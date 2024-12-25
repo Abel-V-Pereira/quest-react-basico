@@ -1,3 +1,4 @@
+import './colorful-uppercase-paragraph.css'
 
 export default function ColorfulUppercaseParagraph({ children, color, textTransform }) {
 
