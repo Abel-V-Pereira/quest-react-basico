@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+p {
+    font-size: 3rem;
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 50px;
+    padding: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+}
